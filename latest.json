@@ -1,6 +1,6 @@
 {
- "version": "1.33.0",
- "url": "SekexBot_Android_v1.33.0.zip",
- "sha256": "bfe1d0b4e765a73dc900ad241e348cf0b93cc1a3889ba6bcd5d48b467ec4d0dc",
- "notes": "Trading levels (Conservative/Balanced/Aggressive/Max/Auto/Custom)."
+ "version": "1.40.0",
+ "url": "SekexBot_Android_v1.40.0.zip",
+ "sha256": "c1ff8982c45aae5060eeb2539278e345f53e693ab9893a00dd56e74c298796e3",
+ "notes": "Auto re-entry on pullback or continuation for all setups and the manual harvester."
 }
