@@ -1,6 +1,6 @@
 {
- "version": "1.52.4",
- "url": "SekexBot_Android_v1.52.4.zip",
- "sha256": "0fb8cb93e2df10c814ce16b0b4c6131bc7bda7375bb8d03dc6edf3fdd072b81c",
- "notes": "\ud83d\udcb0 Harvest all"
+ "version": "1.54.0",
+ "url": "SekexBot_Android_v1.54.0.zip",
+ "sha256": "f1635fbeaf5b8f367b58dbad168f508798d83821b704d125ce72ddc36e91004f",
+ "notes": "Profit protection plus fixes for benched setups."
 }
