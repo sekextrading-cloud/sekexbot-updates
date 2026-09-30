@@ -1,6 +1,6 @@
 {
- "version": "1.52.0",
- "url": "SekexBot_Android_v1.52.0.zip",
- "sha256": "1cb78d87f419ecec2f3dce4b484c5ca3054df64db468b25ae54c04b4c2e81841",
- "notes": "Shorts switch on at 7 AM for every setup; short side for every setup."
+ "version": "1.52.1",
+ "url": "SekexBot_Android_v1.52.1.zip",
+ "sha256": "d0c5869f048096eead4e819d9435cb3b2e383f2e97328ca8950f290004860910",
+ "notes": "Voice commands: tolerant parsing, company names, spoken numbers."
 }
