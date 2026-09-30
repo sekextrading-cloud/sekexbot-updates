@@ -1,6 +1,6 @@
 {
- "version": "1.52.1",
- "url": "SekexBot_Android_v1.52.1.zip",
- "sha256": "d0c5869f048096eead4e819d9435cb3b2e383f2e97328ca8950f290004860910",
- "notes": "Voice commands: tolerant parsing, company names, spoken numbers."
+ "version": "1.52.4",
+ "url": "SekexBot_Android_v1.52.4.zip",
+ "sha256": "0fb8cb93e2df10c814ce16b0b4c6131bc7bda7375bb8d03dc6edf3fdd072b81c",
+ "notes": "\ud83d\udcb0 Harvest all"
 }
