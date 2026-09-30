@@ -1,6 +1,6 @@
 {
- "version": "1.49.0",
- "url": "SekexBot_Android_v1.49.0.zip",
- "sha256": "1e5da30eba76e68afb34aa572a361046680507023df06e9d1a8afd299e7e2f99",
- "notes": "\ud83e\udd16 Fix with Claude (\u2699 \u2192 Help & repair)"
+ "version": "1.51.0",
+ "url": "SekexBot_Android_v1.51.0.zip",
+ "sha256": "994474e4325b67ac4bf8866b8639305ae3b58457e6d35d19047ad9da841d532b",
+ "notes": "Voice + header patch built in (it no longer gets wiped by updates)"
 }
