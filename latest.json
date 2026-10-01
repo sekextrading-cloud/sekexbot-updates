@@ -1,6 +1,6 @@
 {
- "version": "1.62.0",
- "url": "SekexBot_Android_v1.62.0.zip",
- "sha256": "2044d6a1b046735b6e61a7367bb904da485f6ffd3e958df252f6c5b6d37c695a",
- "notes": "Admin panel is a private encrypted add-on for admin phones only; one update installs new requirements; support-data checkbox ticked by default."
+ "version": "1.62.1",
+ "url": "SekexBot_Android_v1.62.1.zip",
+ "sha256": "09eeb66d3d3cd3179af36338a15c212a54506cc7060508303c95a935f582eaf9",
+ "notes": "Support-data question (ticked by default) now shows after install/update; admin add-on private; one update installs requirements."
 }
