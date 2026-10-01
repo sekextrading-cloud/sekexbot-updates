@@ -1,6 +1,6 @@
 {
- "version": "1.54.0",
- "url": "SekexBot_Android_v1.54.0.zip",
- "sha256": "f1635fbeaf5b8f367b58dbad168f508798d83821b704d125ce72ddc36e91004f",
- "notes": "Profit protection plus fixes for benched setups."
+ "version": "1.58.0",
+ "url": "SekexBot_Android_v1.58.0.zip",
+ "sha256": "70bb15bcd6fef00cc1d33bda6de8b6c9aa4b952ccc2e5941071fe5081d9da534",
+ "notes": "Faster closes, bid/ask-based profit decisions, learned slippage."
 }
