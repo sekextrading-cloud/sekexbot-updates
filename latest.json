@@ -1,6 +1,6 @@
 {
- "version": "1.59.1",
- "url": "SekexBot_Android_v1.59.1.zip",
- "sha256": "1535de748b53a9e84e950e85d60d67006bdf561a4e683f0854ac79e24f2c6345",
- "notes": "Spread filter; overnight and 24/5 shorts back off."
+ "version": "1.60.0",
+ "url": "SekexBot_Android_v1.60.0.zip",
+ "sha256": "c285314a27fbc9bbd70118b35bde00e523ffdafa7f7f8bbd42b4b10884abc400",
+ "notes": "Keep-screen-on setting."
 }
