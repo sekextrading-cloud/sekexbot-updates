@@ -1,6 +1,6 @@
 {
- "version": "1.58.0",
- "url": "SekexBot_Android_v1.58.0.zip",
- "sha256": "70bb15bcd6fef00cc1d33bda6de8b6c9aa4b952ccc2e5941071fe5081d9da534",
- "notes": "Faster closes, bid/ask-based profit decisions, learned slippage."
+ "version": "1.59.1",
+ "url": "SekexBot_Android_v1.59.1.zip",
+ "sha256": "1535de748b53a9e84e950e85d60d67006bdf561a4e683f0854ac79e24f2c6345",
+ "notes": "Spread filter; overnight and 24/5 shorts back off."
 }
