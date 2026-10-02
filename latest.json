@@ -1,6 +1,6 @@
 {
- "version": "1.62.1",
- "url": "SekexBot_Android_v1.62.1.zip",
- "sha256": "09eeb66d3d3cd3179af36338a15c212a54506cc7060508303c95a935f582eaf9",
- "notes": "Support-data question (ticked by default) now shows after install/update; admin add-on private; one update installs requirements."
+ "version": "1.67.0",
+ "url": "SekexBot_Android_v1.67.0.zip",
+ "sha256": "ded8a8bf9ed3cf5c818510f1dab4a7049a42a8ef78badbdc18b14f41545d7694",
+ "notes": "Auto-flip (close + reverse + harvest) for manual trades."
 }
