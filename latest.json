@@ -1,6 +1,6 @@
 {
- "version": "1.67.0",
- "url": "SekexBot_Android_v1.67.0.zip",
- "sha256": "ded8a8bf9ed3cf5c818510f1dab4a7049a42a8ef78badbdc18b14f41545d7694",
- "notes": "Auto-flip (close + reverse + harvest) for manual trades."
+ "version": "1.68.1",
+ "url": "SekexBot_Android_v1.68.1.zip",
+ "sha256": "6f45825417b3d2b55e046249e2c68242ba38ff0f1d6c73b181184b341cf26135",
+ "notes": "Easier admin updates: sekex update picks up the admin zip."
 }
