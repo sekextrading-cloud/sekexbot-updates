@@ -1,6 +1,6 @@
 {
- "version": "1.68.3",
- "url": "SekexBot_Android_v1.68.3.zip",
- "sha256": "b9b03ed2157f14fb05ddaa6fe334ca1545bab23c192c1952761f02494d53147f",
- "notes": "Session focus: Auto page shows only the cards for the current market session."
+ "version": "1.69.1",
+ "url": "SekexBot_Android_v1.69.1.zip",
+ "sha256": "bd8eb44a19fadf9d8d431ab0519194556c6c1930cab1ca482bfc0d1a92dc11db",
+ "notes": "One-tap SekexBot home-screen icon (starts the bot, opens the dashboard)."
 }
