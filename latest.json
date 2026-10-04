@@ -1,6 +1,6 @@
 {
- "version": "1.72.0",
- "url": "SekexBot_Android_v1.72.0.zip",
- "sha256": "d1a5ab229adda60f17a3191c318fab2289f3ea883d4b96808f32f07e07f7297b",
- "notes": "Options settings, Options journal, Unchanged"
+ "version": "1.73.0",
+ "url": "SekexBot_Android_v1.73.0.zip",
+ "sha256": "077b35fdcc8b59922b278a62fb238e215ef3cdd32434b732c6889db930c29634",
+ "notes": "Trade pad, Preset amounts, Keys, Keyboard shortcuts for a USB or Bluetooth macro pad"
 }
