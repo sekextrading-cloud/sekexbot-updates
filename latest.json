@@ -1,6 +1,6 @@
 {
- "version": "1.71.1",
- "url": "SekexBot_Android_v1.71.1.zip",
- "sha256": "49a238e04ad3751871a015ffb2700c4bf7a3fbdf6308243e39291582c1227353",
- "notes": "MORN_TREND no longer needs a 1% gap"
+ "version": "1.71.2",
+ "url": "SekexBot_Android_v1.71.2.zip",
+ "sha256": "00b985983e2e6788f53cf905ea6a19fcd2b3855afb1d516a5291ab7292601308",
+ "notes": "Release notes, Install guide"
 }
