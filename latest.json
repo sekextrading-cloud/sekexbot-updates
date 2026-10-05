@@ -1,6 +1,6 @@
 {
- "version": "1.76.1",
- "url": "SekexBot_Android_v1.76.1.zip",
- "sha256": "21e0a309052b9c219e3f5e26ab474d8b61fb42cd78278aed4ca72ffcd4559f22",
- "notes": "Pre-market only preset"
+ "version": "1.77.0",
+ "url": "SekexBot_Android_v1.77.0.zip",
+ "sha256": "38afcceb8457635f6ff53cad724ba3ffce01fd2d8c06e462bd025f46387894cf",
+ "notes": "Session auto-off"
 }
