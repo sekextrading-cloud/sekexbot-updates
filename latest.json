@@ -1,6 +1,6 @@
 {
- "version": "1.79.0",
- "url": "SekexBot_Android_v1.79.0.zip",
- "sha256": "1edc249f75914dda484b86321a2327160eb537a6ee20a44e85a9ab8b04ce46d2",
- "notes": "Simpler Controls"
+ "version": "1.81.0",
+ "url": "SekexBot_Android_v1.81.0.zip",
+ "sha256": "34dc5e6f563ebc174a894e17bf7c4fcd1079bcb5be4cadec81718b3acd5debc1",
+ "notes": "Start on boot by default"
 }
