@@ -1,6 +1,6 @@
 {
- "version": "1.75.0",
- "url": "SekexBot_Android_v1.75.0.zip",
- "sha256": "7ccf5ce30d2a3dad267f7b4117e427e5525599f9c0f71e226b0a6f8c1242fe1d",
- "notes": "Pre-market preset, Scorecard, Trade pad"
+ "version": "1.76.1",
+ "url": "SekexBot_Android_v1.76.1.zip",
+ "sha256": "21e0a309052b9c219e3f5e26ab474d8b61fb42cd78278aed4ca72ffcd4559f22",
+ "notes": "Pre-market only preset"
 }
