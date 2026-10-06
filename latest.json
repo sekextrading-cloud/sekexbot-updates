@@ -1,6 +1,6 @@
 {
- "version": "1.82.1",
- "url": "SekexBot_Android_v1.82.1.zip",
- "sha256": "47af9e3003bb312f41b666c5637a3c3af36ebf6ebce88024349c313314e7f6e6",
- "notes": "Fix"
+ "version": "1.84.0",
+ "url": "SekexBot_Android_v1.84.0.zip",
+ "sha256": "4c839aeb9a7eb540ed67a74c342bc07f3a68d0b066a17b755643acb3e415fa40",
+ "notes": "Night buys + Session tab"
 }
