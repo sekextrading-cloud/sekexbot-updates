@@ -1,6 +1,6 @@
 {
- "version": "1.87.2",
- "url": "SekexBot_Android_v1.87.2.zip",
- "sha256": "1812d19e07e0afbff27df06bd17bf94c958ae3037df5f98b7e2945182b63ee65",
- "notes": "Start no longer hangs without Termux:API"
+ "version": "1.88.0",
+ "url": "SekexBot_Android_v1.88.0.zip",
+ "sha256": "bf00e44772aeae3a20e652d758c5465ce139c44c60f2affedce7c71f65ffce15",
+ "notes": "Learn tab, Read a stock, regression suite"
 }
