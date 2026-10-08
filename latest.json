@@ -1,6 +1,6 @@
 {
- "version": "1.90.3",
- "url": "SekexBot_Android_v1.90.3.zip",
- "sha256": "26a2dcac8428f32d4cae512d62e36ccda4828849acef73a0d6eaa9790d9163b1",
- "notes": "PIN create/change fix, separate paper/live loss limits"
+ "version": "1.93.0",
+ "url": "SekexBot_Android_v1.93.0.zip",
+ "sha256": "ef30818a6c545e4dc2f0bbf203c505849d59899b2c7d2c03447ba98af44f3c53",
+ "notes": "Rookie / Trader / Advanced modes"
 }
