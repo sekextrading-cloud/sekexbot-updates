@@ -1,6 +1,11 @@
 {
- "version": "1.93.0",
- "url": "SekexBot_Android_v1.93.0.zip",
- "sha256": "ef30818a6c545e4dc2f0bbf203c505849d59899b2c7d2c03447ba98af44f3c53",
- "notes": "Rookie / Trader / Advanced modes"
+ "version": "1.94.0",
+ "url": "SekexBot_Android_v1.94.0.zip",
+ "sha256": "a8c871c3df25848a4c55db70b755755a5566e427de87dc28502411b8a9ce2734",
+ "notes": "New 'sekex ship' and 'sekex clean' commands",
+ "admin": {
+  "version": "1.94.0",
+  "url": "admin_v1.94.0.enc",
+  "sha256": "0f547334fbc8cf502eaed546c503661743d1d44e3de31e7c5e343f2a9749c58a"
+ }
 }
