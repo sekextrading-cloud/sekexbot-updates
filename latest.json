@@ -1,6 +1,6 @@
 {
- "version": "1.89.1",
- "url": "SekexBot_Android_v1.89.1.zip",
- "sha256": "6a63f32d0957ee9f992c5c34eb3416adad35a4b96b0c5394efd3f5ab4da87c4c",
- "notes": "Easy buy from the watchlist"
+ "version": "1.89.4",
+ "url": "SekexBot_Android_v1.89.4.zip",
+ "sha256": "921aa0566fa8fdbb42d0a4764fc9b5097edde9789d9e23a13792dd8894ee9d8c",
+ "notes": "Never sell into a broken quote"
 }
