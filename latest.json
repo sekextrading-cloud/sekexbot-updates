@@ -1,6 +1,6 @@
 {
- "version": "1.89.4",
- "url": "SekexBot_Android_v1.89.4.zip",
- "sha256": "921aa0566fa8fdbb42d0a4764fc9b5097edde9789d9e23a13792dd8894ee9d8c",
- "notes": "Never sell into a broken quote"
+ "version": "1.90.3",
+ "url": "SekexBot_Android_v1.90.3.zip",
+ "sha256": "26a2dcac8428f32d4cae512d62e36ccda4828849acef73a0d6eaa9790d9163b1",
+ "notes": "PIN create/change fix, separate paper/live loss limits"
 }
