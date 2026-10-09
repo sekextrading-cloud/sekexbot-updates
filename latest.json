@@ -1,12 +1,12 @@
 {
- "version": "1.96.2",
- "url": "SekexBot_Android_v1.96.2.zip",
- "sha256": "fbe2bbc22dd3b8b8f6a558b32f078260c725f18ce6a9e536ffd6c1443838ba39",
- "notes": "The gear button in the header is replaced by a one-tap light/dark theme switch (settings stay under More)",
+ "version": "1.97.0",
+ "url": "SekexBot_Android_v1.97.0-3.zip",
+ "sha256": "030038dd057c8d23a26817e44f1c123a5b311a5cc261acbb2a5a1121d89e3b0a",
+ "notes": "New Predict tab for every trader level (Rookie, Trader, Advanced)",
  "collector": "https://morning-ottawa-collins-feet.trycloudflare.com",
  "admin": {
-  "version": "1.96.2",
-  "url": "admin_v1.96.2.enc",
-  "sha256": "2358ba8f9eb20d6d3e11c41206355f8288bdbe2b8a54ad115007370a252c49f3"
+  "version": "1.97.0",
+  "url": "admin_v1.97.0.enc",
+  "sha256": "f0b43eac347a91f6af820ad6219583bd0157e81d8e1768b1c8e3d2309f8ab29e"
  }
 }
