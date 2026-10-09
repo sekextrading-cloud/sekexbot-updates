@@ -1,11 +1,12 @@
 {
- "version": "1.96.0",
- "url": "SekexBot_Android_v1.96.0.zip",
- "sha256": "6e13183c95bf58ca49a7f470f85e9ac869a5b30aa309ceb3ddba6cee03bf385b",
- "notes": "Wave watchlist for every session",
+ "version": "1.96.2",
+ "url": "SekexBot_Android_v1.96.2.zip",
+ "sha256": "fbe2bbc22dd3b8b8f6a558b32f078260c725f18ce6a9e536ffd6c1443838ba39",
+ "notes": "The gear button in the header is replaced by a one-tap light/dark theme switch (settings stay under More)",
+ "collector": "https://morning-ottawa-collins-feet.trycloudflare.com",
  "admin": {
-  "version": "1.96.0",
-  "url": "admin_v1.96.0.enc",
-  "sha256": "45fccce9ba50e55bb811de9ccde860ecffde2f70d750afde977703dc949984af"
+  "version": "1.96.2",
+  "url": "admin_v1.96.2.enc",
+  "sha256": "01d54236014a03b28df270487ad97c812f147430dcb8a4eca5938a52334ca802"
  }
 }
