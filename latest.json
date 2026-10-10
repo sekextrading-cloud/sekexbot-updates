@@ -1,12 +1,12 @@
 {
- "version": "1.99.0",
- "url": "SekexBot_Android_v1.99.0.zip",
- "sha256": "deb3afad57a76fe9fca3061ce0200b374a0885baad18e8afad6028f77d73786a",
- "notes": "New AI tab for every trader level",
+ "version": "2.0.0",
+ "url": "SekexBot_Android_v2.0.0.zip",
+ "sha256": "ce8cd914672ca8d6226279e1464f0336ad0f98682dcd91e952fcdcc6c3a48c98",
+ "notes": "SekexBot 2",
  "collector": "https://morning-ottawa-collins-feet.trycloudflare.com",
  "admin": {
-  "version": "1.99.0",
-  "url": "admin_v1.99.0.enc",
-  "sha256": "671e022407103aa3cbb5c65b3102e7e9b08a88589d24bab9798dc0569085308b"
+  "version": "2.0.0",
+  "url": "admin_v2.0.0.enc",
+  "sha256": "f57334aa37d18753b7e33a8accbb77ac7b2c0173971c03e40c32b6d4f8c93f65"
  }
 }
