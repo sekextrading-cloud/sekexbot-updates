@@ -1,12 +1,12 @@
 {
- "version": "2.2.2",
- "url": "SekexBot_Android_v2.2.2.zip",
- "sha256": "4ff7fef67ec06ab513439c23511647a3e47f60fd3b437aee7a890c80050a8d6d",
- "notes": "**Fixed, Fixed, Fixed, Fixed",
+ "version": "2.2.3",
+ "url": "SekexBot_Android_v2.2.3.zip",
+ "sha256": "2e3bc6e9c4296d6651c3b782717bdda3f66be13d886dafe0a77a489df90ce734",
+ "notes": "`sekex ship` now asks two questions",
  "collector": "https://morning-ottawa-collins-feet.trycloudflare.com",
  "admin": {
-  "version": "2.2.2",
-  "url": "admin_v2.2.2.enc",
-  "sha256": "333cd6ea3c597fab57b9c15be54a87e81c935bdd66c2e776383437b62616f1c1"
+  "version": "2.2.3",
+  "url": "admin_v2.2.3.enc",
+  "sha256": "a6ba82f73cb7ee95af792633cbe3a70a74a81772f5f4233fdc032d85330d613e"
  }
 }
