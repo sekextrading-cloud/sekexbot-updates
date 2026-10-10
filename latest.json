@@ -1,12 +1,12 @@
 {
- "version": "2.2.3",
- "url": "SekexBot_Android_v2.2.3.zip",
- "sha256": "2e3bc6e9c4296d6651c3b782717bdda3f66be13d886dafe0a77a489df90ce734",
- "notes": "`sekex ship` now asks two questions",
+ "version": "2.3.0",
+ "url": "SekexBot_Android_v2.3.0.zip",
+ "sha256": "72b60007b0d5007a9083a37f752110043f3152c888849afdeebdb21ffb5f1c5d",
+ "notes": "**New guided lessons in the Learn tab (practice only, no broker is touched), **Predict is now Radar** in Rookie mode and **Setups** in Trader / Advanced mode (new \ud83d\udce1 icon)",
  "collector": "https://morning-ottawa-collins-feet.trycloudflare.com",
  "admin": {
-  "version": "2.2.3",
-  "url": "admin_v2.2.3.enc",
-  "sha256": "a6ba82f73cb7ee95af792633cbe3a70a74a81772f5f4233fdc032d85330d613e"
+  "version": "2.3.0",
+  "url": "admin_v2.3.0.enc",
+  "sha256": "044b6d5e3ae9a0eb556129bde13fb4d47d68320198d596d1adf0c948cbd52924"
  }
 }
