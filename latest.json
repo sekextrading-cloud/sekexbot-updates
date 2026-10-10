@@ -1,12 +1,12 @@
 {
- "version": "2.0.0",
- "url": "SekexBot_Android_v2.0.0.zip",
- "sha256": "ce8cd914672ca8d6226279e1464f0336ad0f98682dcd91e952fcdcc6c3a48c98",
- "notes": "SekexBot 2",
+ "version": "2.2.2",
+ "url": "SekexBot_Android_v2.2.2.zip",
+ "sha256": "4ff7fef67ec06ab513439c23511647a3e47f60fd3b437aee7a890c80050a8d6d",
+ "notes": "**Fixed, Fixed, Fixed, Fixed",
  "collector": "https://morning-ottawa-collins-feet.trycloudflare.com",
  "admin": {
-  "version": "2.0.0",
-  "url": "admin_v2.0.0.enc",
-  "sha256": "f3129f69ff2b95964326bc64d739c920ea7791593d6275107e49c6b0397f0429"
+  "version": "2.2.2",
+  "url": "admin_v2.2.2.enc",
+  "sha256": "333cd6ea3c597fab57b9c15be54a87e81c935bdd66c2e776383437b62616f1c1"
  }
 }
