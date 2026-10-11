@@ -1,12 +1,12 @@
 {
- "version": "2.3.1",
- "url": "SekexBot_Android_v2.3.1.zip",
- "sha256": "afbb825dd680e1f96a4ef2ec05348e881d458a06587ff8ecd5fcf104265b5256",
- "notes": "The tab is now called **Radar** in every mode (it was Setups in Trader / Advanced, which did not match the page heading), **More is now a gear \u2699 at the top right** (next to the the",
+ "version": "2.4.0",
+ "url": "SekexBot_Android_v2.4.0.zip",
+ "sha256": "9b8ed131066c228a0b181fa605b73c12515d07ef37525f943467428507660f8e",
+ "notes": "**Ollama can now be the AI brain, It powers the same features as Claude and ChatGPT (Ask AI, chart reader, check-up, signal review, Fix with Claude), A saved Claude or ChatGPT key ",
  "collector": "https://morning-ottawa-collins-feet.trycloudflare.com",
  "admin": {
-  "version": "2.3.1",
-  "url": "admin_v2.3.1.enc",
-  "sha256": "8009c4a0cd04ce0176b2509d3528f58d278dd896483405ca809531561bddccd0"
+  "version": "2.4.0",
+  "url": "admin_v2.4.0.enc",
+  "sha256": "291291545574f554a07213e530491339001400f4b1c882f24a810d1f1518436a"
  }
 }
