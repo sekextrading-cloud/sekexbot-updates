@@ -1,12 +1,12 @@
 {
- "version": "2.3.0",
- "url": "SekexBot_Android_v2.3.0.zip",
- "sha256": "72b60007b0d5007a9083a37f752110043f3152c888849afdeebdb21ffb5f1c5d",
- "notes": "**New guided lessons in the Learn tab (practice only, no broker is touched), **Predict is now Radar** in Rookie mode and **Setups** in Trader / Advanced mode (new \ud83d\udce1 icon)",
+ "version": "2.3.1",
+ "url": "SekexBot_Android_v2.3.1.zip",
+ "sha256": "afbb825dd680e1f96a4ef2ec05348e881d458a06587ff8ecd5fcf104265b5256",
+ "notes": "The tab is now called **Radar** in every mode (it was Setups in Trader / Advanced, which did not match the page heading), **More is now a gear \u2699 at the top right** (next to the the",
  "collector": "https://morning-ottawa-collins-feet.trycloudflare.com",
  "admin": {
-  "version": "2.3.0",
-  "url": "admin_v2.3.0.enc",
-  "sha256": "044b6d5e3ae9a0eb556129bde13fb4d47d68320198d596d1adf0c948cbd52924"
+  "version": "2.3.1",
+  "url": "admin_v2.3.1.enc",
+  "sha256": "8009c4a0cd04ce0176b2509d3528f58d278dd896483405ca809531561bddccd0"
  }
 }
