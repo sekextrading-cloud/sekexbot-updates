@@ -1,12 +1,12 @@
 {
- "version": "2.5.1",
- "url": "SekexBot_Android_v2.5.1.zip",
- "sha256": "f52da30bdb1f58a3f0e8eca24728e2d2dbd97863325a9183809c19807dadfe52",
- "notes": "Re-applied two fixes made on the phone with \"Fix with Claude\" that were lost in updates (the rest of your exported fixes were already in the code), Orders, sizing, stops and your d",
+ "version": "2.5.4",
+ "url": "SekexBot_Android_v2.5.4.zip",
+ "sha256": "542a23a0748af8b69f475aaf13f6757bbfbdd2e2f95c5e678f1efd4e796befb6",
+ "notes": "**Cheap stocks get a sane stop and targets, **Watchlist button follows what you hold, **Ollama through a Cloudflare tunnel, **New lesson screen \"Try it on a real stock\"** (screen 1",
  "collector": "https://morning-ottawa-collins-feet.trycloudflare.com",
  "admin": {
-  "version": "2.5.1",
-  "url": "admin_v2.5.1.enc",
-  "sha256": "6a26b6d1e5cdc0bd5f799de1612f3f2d2c2213fb34308d549a2f8743b0471a19"
+  "version": "2.5.4",
+  "url": "admin_v2.5.4.enc",
+  "sha256": "970ca53760fac2e6e2c972e0c165aa24097c02c91b918afeced708a9e3865b60"
  }
 }
