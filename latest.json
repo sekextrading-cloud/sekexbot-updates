@@ -1,12 +1,12 @@
 {
- "version": "2.5.5",
- "url": "SekexBot_Android_v2.5.5.zip",
- "sha256": "7a1b99105c8dadf1df647b6a28c0da2d749f6d5f79a596e539515b5508bbe96d",
- "notes": "**Night and extended-hours manual orders now cover the spread, The quick-trade sheet already did this; the bot's own night and extended entries and exits were already marketable li",
+ "version": "2.5.6",
+ "url": "SekexBot_Android_v2.5.6.zip",
+ "sha256": "a59d258383300038f2e8eb0b21dd92fc9ba6ba45e3b965ea1f7db20a7f56df46",
+ "notes": "**Fixes the \"Connection pool is full\" warnings** in the log (seen overnight when the dashboard asks for many prices at once)",
  "collector": "https://morning-ottawa-collins-feet.trycloudflare.com",
  "admin": {
-  "version": "2.5.5",
-  "url": "admin_v2.5.5.enc",
-  "sha256": "ff9a3fac7ad857a6111177dc74d58ee660f5a69d0b696d6576e8b42dd3c5775d"
+  "version": "2.5.6",
+  "url": "admin_v2.5.6.enc",
+  "sha256": "846bb629bb57da541ee9868d6ee45281811eee48139176c4a322d95a6cb4f5a4"
  }
 }
