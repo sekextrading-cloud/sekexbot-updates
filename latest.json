@@ -1,12 +1,12 @@
 {
- "version": "2.7.0",
- "url": "SekexBot_Android_v2.7.0.zip",
- "sha256": "13141d2fbc1c6f049c1d2f95d77f838107f83c8daf6e620e09c7375815840874",
- "notes": "**\ud83e\udde9 Options Hub (Manual tab), **The order ticket** starts at the ask and has limit price and contracts steppers, estimated cost, max loss, max profit, breakeven and a profit/loss g",
+ "version": "2.7.1",
+ "url": "SekexBot_Android_v2.7.1.zip",
+ "sha256": "403563f1972f55fd8c8a7a485d43d526b441826279ebbf327d7ec0317ff92338",
+ "notes": "**Options are now one tap away, These cards now show in Rookie mode too (before, they were hidden unless you were in Trader or Advanced), Nothing about trading rules changed",
  "collector": "https://morning-ottawa-collins-feet.trycloudflare.com",
  "admin": {
-  "version": "2.7.0",
-  "url": "admin_v2.7.0.enc",
-  "sha256": "29159105452eba71599247929fc695cefc7674d0da6f2975ce8aeaad0b65735a"
+  "version": "2.7.1",
+  "url": "admin_v2.7.1.enc",
+  "sha256": "4a46f7e9dfd7542073751fa508eef8e5092963fc93991d031cece53e5fac25e3"
  }
 }
