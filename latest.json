@@ -1,1 +1,11 @@
-{"version": "2.5.6", "url": "SekexBot_Android_v2.5.6.zip", "sha256": "a59d258383300038f2e8eb0b21dd92fc9ba6ba45e3b965ea1f7db20a7f56df46", "notes": "Bigger Alpaca connection pool (no pool-full warnings)"}
+{
+ "version": "2.5.7",
+ "url": "SekexBot_Android_v2.5.7.zip",
+ "sha256": "9b96c98de79b84aee73ba221e272bedff20b000eaa5c7370bfa548e2ec77d5d8",
+ "notes": "**`sekex ship` / `sekex publish` now upload every public release file, not only the zip, Old release-notes PDFs on GitHub are tidied with the zips (keeping the newest 3), To publis",
+ "admin": {
+  "version": "2.5.7",
+  "url": "admin_v2.5.7.enc",
+  "sha256": "7e5cf19316cd5f27d7453a9dec264a385d1c867555a6d1f44b99e56ca158e85e"
+ }
+}
