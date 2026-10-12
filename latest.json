@@ -1,12 +1,1 @@
-{
- "version": "2.5.6",
- "url": "SekexBot_Android_v2.5.6.zip",
- "sha256": "a59d258383300038f2e8eb0b21dd92fc9ba6ba45e3b965ea1f7db20a7f56df46",
- "notes": "**Fixes the \"Connection pool is full\" warnings** in the log (seen overnight when the dashboard asks for many prices at once)",
- "collector": "https://morning-ottawa-collins-feet.trycloudflare.com",
- "admin": {
-  "version": "2.5.6",
-  "url": "admin_v2.5.6.enc",
-  "sha256": "9343713a6798c777833461c6d348d30b1a9732979019695bca7c108fd0295196"
- }
-}
+{"version": "2.5.6", "url": "SekexBot_Android_v2.5.6.zip", "sha256": "a59d258383300038f2e8eb0b21dd92fc9ba6ba45e3b965ea1f7db20a7f56df46", "notes": "Bigger Alpaca connection pool (no pool-full warnings)"}
