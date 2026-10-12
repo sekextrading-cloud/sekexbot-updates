@@ -1,12 +1,12 @@
 {
- "version": "2.5.4",
- "url": "SekexBot_Android_v2.5.4.zip",
- "sha256": "542a23a0748af8b69f475aaf13f6757bbfbdd2e2f95c5e678f1efd4e796befb6",
- "notes": "**Cheap stocks get a sane stop and targets, **Watchlist button follows what you hold, **Ollama through a Cloudflare tunnel, **New lesson screen \"Try it on a real stock\"** (screen 1",
+ "version": "2.5.5",
+ "url": "SekexBot_Android_v2.5.5.zip",
+ "sha256": "7a1b99105c8dadf1df647b6a28c0da2d749f6d5f79a596e539515b5508bbe96d",
+ "notes": "**Night and extended-hours manual orders now cover the spread, The quick-trade sheet already did this; the bot's own night and extended entries and exits were already marketable li",
  "collector": "https://morning-ottawa-collins-feet.trycloudflare.com",
  "admin": {
-  "version": "2.5.4",
-  "url": "admin_v2.5.4.enc",
-  "sha256": "970ca53760fac2e6e2c972e0c165aa24097c02c91b918afeced708a9e3865b60"
+  "version": "2.5.5",
+  "url": "admin_v2.5.5.enc",
+  "sha256": "ff9a3fac7ad857a6111177dc74d58ee660f5a69d0b696d6576e8b42dd3c5775d"
  }
 }
