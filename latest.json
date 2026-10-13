@@ -1,12 +1,12 @@
 {
- "version": "2.9.1",
- "url": "SekexBot_Android_v2.9.1-1.zip",
- "sha256": "9fd6e35333e5b7e7a71154bd204032bc8f95f8154d1ce771a173062bb60f7e1b",
- "notes": "**Radar \"Let the bot take it\" no longer fails silently, **Fix with Claude** now answers immediately (\"Sending your description to Claude\u2026\") and shows a clear message if the app is ",
+ "version": "2.9.2",
+ "url": "SekexBot_Android_v2.9.2.zip",
+ "sha256": "4a20bead0f60a5b17b011f05c995fd1ec398283345a769c04e6318cc50b46e15",
+ "notes": "**Faster, safer restarts, An old copy that is slow to close is now force-closed after 6 seconds, so it can't keep the lock and block the new copy (the \"already running\" hang), `sek",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.9.1",
-  "url": "admin_v2.9.1.enc",
-  "sha256": "c6f17e2d13345cb909694f1df0427dbda7160fea8f199668bcf218542188eb73"
+  "version": "2.9.2",
+  "url": "admin_v2.9.2.enc",
+  "sha256": "0de6016507613f13010d50546af2f827463fb03bd87d82dc23e13b0ef7e4ae25"
  }
 }
