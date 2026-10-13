@@ -1,12 +1,12 @@
 {
- "version": "2.9.2",
- "url": "SekexBot_Android_v2.9.2.zip",
- "sha256": "4a20bead0f60a5b17b011f05c995fd1ec398283345a769c04e6318cc50b46e15",
- "notes": "**Faster, safer restarts, An old copy that is slow to close is now force-closed after 6 seconds, so it can't keep the lock and block the new copy (the \"already running\" hang), `sek",
+ "version": "2.10.0",
+ "url": "SekexBot_Android_v2.10.0.zip",
+ "sha256": "884f23cd7e1d44650a670afab035d884a1643fc2c546e428ce19761ef66ebde3",
+ "notes": "**\ud83d\udd0e Stock review & reversal watch** at the top of the Radar tab, **Reversal alerts, **Upload a screenshot** from the same card",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.9.2",
-  "url": "admin_v2.9.2.enc",
-  "sha256": "0de6016507613f13010d50546af2f827463fb03bd87d82dc23e13b0ef7e4ae25"
+  "version": "2.10.0",
+  "url": "admin_v2.10.0.enc",
+  "sha256": "e5af6377ee4154cf4e7e080ddcff28ef52cb3f9118bc913dda1d7a6fae75f528"
  }
 }
