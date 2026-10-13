@@ -1,12 +1,12 @@
 {
- "version": "2.9.0",
- "url": "SekexBot_Android_v2.9.0-3.zip",
- "sha256": "6ea5c64d1d5c4690c20567d65054780dba2d4d1e65ccf54e98da331e51b2764a",
- "notes": "**\ud83d\udce1 Radar \u00b7 next 24 hours, **Five new setup types** next to the classic morning / intraday / after-hours / overnight waves, **Same ways to trade as before",
+ "version": "2.9.1",
+ "url": "SekexBot_Android_v2.9.1-1.zip",
+ "sha256": "9fd6e35333e5b7e7a71154bd204032bc8f95f8154d1ce771a173062bb60f7e1b",
+ "notes": "**Radar \"Let the bot take it\" no longer fails silently, **Fix with Claude** now answers immediately (\"Sending your description to Claude\u2026\") and shows a clear message if the app is ",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.9.0",
-  "url": "admin_v2.9.0.enc",
-  "sha256": "de0b0615bb645dd3e3c97288df72b345fa22bc7cf56fb2fe9482f876bd8084b1"
+  "version": "2.9.1",
+  "url": "admin_v2.9.1.enc",
+  "sha256": "c6f17e2d13345cb909694f1df0427dbda7160fea8f199668bcf218542188eb73"
  }
 }
