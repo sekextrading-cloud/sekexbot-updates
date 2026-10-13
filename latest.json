@@ -1,1 +1,12 @@
-{"version": "2.11.0", "url": "SekexBot_Android_v2.11.0.zip", "sha256": "9a3c73548b84d4f83ff8778c2db5bce4d2b62c4f8780f97ec1514439639afb91", "notes": "Open drive: breakout scanner for the 9:30 open"}
+{
+ "version": "2.12.0",
+ "url": "SekexBot_Android_v2.12.0.zip",
+ "sha256": "dc8571455a607bfb06abde58a439a3cee3a23cc930c18778d26f76d0e13499cb",
+ "notes": "**\ud83d\ude80 Day drives** replaces Open drive in the Radar tab, **\ud83e\udd16 Radar Autopilot** (off by default, manual stays the default), **Stocks only / Options only / Both** for Autopilot, **Test",
+ "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
+ "admin": {
+  "version": "2.12.0",
+  "url": "admin_v2.12.0.enc",
+  "sha256": "19c62948b50cf2663517a83a6955429b7e08e8d0b4e5271bf2738a1d03b0eabd"
+ }
+}
