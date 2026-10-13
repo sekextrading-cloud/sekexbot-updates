@@ -3,10 +3,10 @@
  "url": "SekexBot_Android_v2.8.0.zip",
  "sha256": "2d708e1a32f1f9f2b54ed3c4e2e380f195353eee208bf01b8e6af5e45b5ed83a",
  "notes": "**Support can suggest a preset to a user, and the user taps Apply, **Safety, Needs the new support collector (sekexbot_collector",
- "collector": "https://morning-ottawa-collins-feet.trycloudflare.com",
+ "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
   "version": "2.8.0",
   "url": "admin_v2.8.0.enc",
-  "sha256": "d197bb43e6b5fab81cad11a4550a5150f87fdb8b37cb93ab3fdf33bc0b137246"
+  "sha256": "758da39e056c40c616ca656dfd04de30564c01cc3ad52672d97c2c54c84a62e4"
  }
 }
