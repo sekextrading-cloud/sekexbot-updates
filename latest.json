@@ -1,12 +1,1 @@
-{
- "version": "2.10.0",
- "url": "SekexBot_Android_v2.10.0.zip",
- "sha256": "884f23cd7e1d44650a670afab035d884a1643fc2c546e428ce19761ef66ebde3",
- "notes": "**\ud83d\udd0e Stock review & reversal watch** at the top of the Radar tab, **Reversal alerts, **Upload a screenshot** from the same card",
- "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
- "admin": {
-  "version": "2.10.0",
-  "url": "admin_v2.10.0.enc",
-  "sha256": "73e32c8be2cf270993e85f502f6800a44198126449ec7766cc7e9f82f44b4b85"
- }
-}
+{"version": "2.11.0", "url": "SekexBot_Android_v2.11.0.zip", "sha256": "9a3c73548b84d4f83ff8778c2db5bce4d2b62c4f8780f97ec1514439639afb91", "notes": "Open drive: breakout scanner for the 9:30 open"}
