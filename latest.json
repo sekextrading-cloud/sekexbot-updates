@@ -1,12 +1,12 @@
 {
- "version": "2.13.0",
- "url": "SekexBot_Android_v2.13.0.zip",
- "sha256": "75c06310f52b718d7a329698a154a88d784265b6c0f1205a9d7bc0283036eb07",
- "notes": "**\ud83d\udcc8 Jump in / Jump out** at the top of the Radar tab, **Markers on the Trend ribbon chart**, **Tap-to-trade on the chart, Alerts",
+ "version": "2.11.0",
+ "url": "SekexBot_Android_v2.11.0.zip",
+ "sha256": "9a3c73548b84d4f83ff8778c2db5bce4d2b62c4f8780f97ec1514439639afb91",
+ "notes": "**\ud83d\ude80 Open drive** at the top of the Radar tab, Tap a card to trade it yourself (pre-filled ticket) or let the bot take it, Settings for the alert, the volume multiple and the minimu",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.13.0",
-  "url": "admin_v2.13.0.enc",
-  "sha256": "27f8d2ff590783198bf120b4f7763398f1189fd593fce8465dee268e16d48ca6"
+  "version": "2.11.0",
+  "url": "admin_v2.11.0.enc",
+  "sha256": "9d0864195fca467f6dd23009b3fd05b2e33ef464b64a609e752996e7db3e01d6"
  }
 }
