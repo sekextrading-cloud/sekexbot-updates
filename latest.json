@@ -1,12 +1,12 @@
 {
- "version": "2.11.0",
- "url": "SekexBot_Android_v2.11.0.zip",
- "sha256": "9a3c73548b84d4f83ff8778c2db5bce4d2b62c4f8780f97ec1514439639afb91",
- "notes": "**\ud83d\ude80 Open drive** at the top of the Radar tab, Tap a card to trade it yourself (pre-filled ticket) or let the bot take it, Settings for the alert, the volume multiple and the minimu",
+ "version": "2.14.0",
+ "url": "SekexBot_Android_v2.14.0.zip",
+ "sha256": "ff8e015e051e945ec4c401b04a27ed3861a84abcd9bde16c21ffd27d451ebe0c",
+ "notes": "**\ud83d\udcb0 Profit taking & re-entry** moved onto the Positions tab, with the Trend ribbon chart now on top (above the settings and the position list), **\ud83d\udcc8 The bot learns how high your tra",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.11.0",
-  "url": "admin_v2.11.0.enc",
-  "sha256": "9d0864195fca467f6dd23009b3fd05b2e33ef464b64a609e752996e7db3e01d6"
+  "version": "2.14.0",
+  "url": "admin_v2.14.0.enc",
+  "sha256": "38736347d43d38510c2751005c91a0aaa15d70be30e8c339a32fc2eff102fbe5"
  }
 }
