@@ -1,12 +1,12 @@
 {
- "version": "2.16.0",
- "url": "SekexBot_Android_v2.16.0.zip",
- "sha256": "f7136f10206b8331e54c34194ee86a47de74a7cb71dc49da1ea61c350205a415",
- "notes": "Your own trades are now automatic",
+ "version": "2.17.1",
+ "url": "SekexBot_Android_v2.17.1.zip",
+ "sha256": "1aa46bc486fac1dfa90209ed73930e2b91f28f33b666e1b93c049d16e65d29be",
+ "notes": "New 'sekex repo' menu in Termux",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.16.0",
-  "url": "admin_v2.16.0.enc",
-  "sha256": "e6ded8ee0c4d32662ec2a7aec2f5b9f89732cacb43f9f2d53e8592008263c378"
+  "version": "2.17.1",
+  "url": "admin_v2.17.1.enc",
+  "sha256": "791672af66141aa70d9bafd415892d3716f251fa35cfc4febf574a5eada92db1"
  }
 }
