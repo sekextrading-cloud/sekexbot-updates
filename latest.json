@@ -1,12 +1,12 @@
 {
- "version": "2.14.0",
- "url": "SekexBot_Android_v2.14.0.zip",
- "sha256": "ff8e015e051e945ec4c401b04a27ed3861a84abcd9bde16c21ffd27d451ebe0c",
- "notes": "**\ud83d\udcb0 Profit taking & re-entry** moved onto the Positions tab, with the Trend ribbon chart now on top (above the settings and the position list), **\ud83d\udcc8 The bot learns how high your tra",
+ "version": "2.14.3",
+ "url": "SekexBot_Android_v2.14.3.zip",
+ "sha256": "08b1e8a045037dde4a14fea15d9e5bb8d953b497af32adff2815431543c50d24",
+ "notes": "**Fix",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.14.0",
-  "url": "admin_v2.14.0.enc",
-  "sha256": "38736347d43d38510c2751005c91a0aaa15d70be30e8c339a32fc2eff102fbe5"
+  "version": "2.14.3",
+  "url": "admin_v2.14.3.enc",
+  "sha256": "0382f4544e26e09b30a4fdf3ade8f225d1cc203fa82faf04f34fee510fdc8106"
  }
 }
