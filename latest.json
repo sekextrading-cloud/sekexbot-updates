@@ -1,12 +1,12 @@
 {
- "version": "2.14.3",
- "url": "SekexBot_Android_v2.14.3.zip",
- "sha256": "08b1e8a045037dde4a14fea15d9e5bb8d953b497af32adff2815431543c50d24",
- "notes": "**Fix",
+ "version": "2.15.2",
+ "url": "SekexBot_Android_v2.15.2.zip",
+ "sha256": "9b17b01ab7ed8589b97b9e686f846b7c797cbfdb367efca38d1a59ae8b994d37",
+ "notes": "**Positions tab opens with Positions & orders** (then the chart, then Profit taking & re-entry, then Review), **Position rows are readable and no longer run off the screen",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.14.3",
-  "url": "admin_v2.14.3.enc",
-  "sha256": "aee288d359e8f9bdcf2bad9706f9409e7e5432d8b01da5690f1ca6f6f3f5b23b"
+  "version": "2.15.2",
+  "url": "admin_v2.15.2.enc",
+  "sha256": "5fefff89495109f0a001b4b6fb2eb972c5ca9625fea41fde01db2575de8426ba"
  }
 }
