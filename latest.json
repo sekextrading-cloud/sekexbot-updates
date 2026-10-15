@@ -1,12 +1,12 @@
 {
- "version": "2.17.1",
- "url": "SekexBot_Android_v2.17.1.zip",
- "sha256": "1aa46bc486fac1dfa90209ed73930e2b91f28f33b666e1b93c049d16e65d29be",
- "notes": "New 'sekex repo' menu in Termux",
+ "version": "2.17.3",
+ "url": "SekexBot_Android_v2.17.3.zip",
+ "sha256": "4efc933bbbdcb2937004d305289c6b3d21d7c752389cb40cae9d096e2a004b22",
+ "notes": "Radar jump signals",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.17.1",
-  "url": "admin_v2.17.1.enc",
-  "sha256": "791672af66141aa70d9bafd415892d3716f251fa35cfc4febf574a5eada92db1"
+  "version": "2.17.3",
+  "url": "admin_v2.17.3.enc",
+  "sha256": "b7d6bcc7ed2c26e120388e02c4a23957b9c1d432c786a430f23cce54a067623c"
  }
 }
