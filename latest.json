@@ -1,12 +1,12 @@
 {
- "version": "2.17.6",
- "url": "SekexBot_Android_v2.17.6.zip",
- "sha256": "c059ddce0f07b41b48501c7b49323e0e19ad0e34d583e2dc21b79a9e2f2f7316",
+ "version": "2.17.7",
+ "url": "SekexBot_Android_v2.17.7-1.zip",
+ "sha256": "f3505de98e8e39f21d2163285441e5b8dd3de61aab7599f715f8757f020354ff",
  "notes": "Chart",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.17.6",
-  "url": "admin_v2.17.6.enc",
-  "sha256": "615504d0b4403ceb6ced0623dabed1c268010a9e32ca68f58a67a950ca5e988e"
+  "version": "2.17.7",
+  "url": "admin_v2.17.7.enc",
+  "sha256": "102172636fcd2c0199a7b6383b3cdd0ec104a53da2d3e9a34a81e65a63b2386a"
  }
 }
