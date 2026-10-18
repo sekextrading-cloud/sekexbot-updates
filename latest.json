@@ -1,12 +1,12 @@
 {
- "version": "2.19.2",
- "url": "SekexBot_Android_v2.19.2.zip",
- "sha256": "3c2349d017b3e44a93c2c13a585289a06a0a7e60d015abaec46333814fc3f2ec",
- "notes": "Robinhood tab",
+ "version": "2.19.3",
+ "url": "SekexBot_Android_v2.19.3.zip",
+ "sha256": "6b392c263dbeffca82924bb7a2fdbc110ea2cd2fe3bf735f1d282f8155d3e2c9",
+ "notes": "Publishing no longer crashes when the phone connection drops mid-upload (Errno 103)",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.19.2",
-  "url": "admin_v2.19.2.enc",
-  "sha256": "cc20ec97f88d17a0665f09c78ad87ec105402610f70debae21ea29367315f0c5"
+  "version": "2.19.3",
+  "url": "admin_v2.19.3.enc",
+  "sha256": "895201e0d4c10958e9caca043aed94d7fec2b62c208ed3c4d4baad0680b6d28a"
  }
 }
