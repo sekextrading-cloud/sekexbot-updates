@@ -1,12 +1,12 @@
 {
- "version": "2.18.3",
- "url": "SekexBot_Android_v2.18.3.zip",
- "sha256": "ab93c17c044de3b9a554def8d36155a17f4ae84039489277abdec80490f5c91d",
- "notes": "Options tab in plain words",
+ "version": "2.19.1",
+ "url": "SekexBot_Android_v2.19.1.zip",
+ "sha256": "935ab07c39431dcec147d331bea571db187688b4f45ec9787b33f29309832d19",
+ "notes": "Robinhood tab shows only your Agentic (MCP) account, with its cash, buying power and account value; holdings, orders and the overview are filtered to it",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.18.3",
-  "url": "admin_v2.18.3.enc",
-  "sha256": "bb5816e8562bfed45c6d1cea8229cfe3b9eaa95a1e0d28e3ee95202437045d48"
+  "version": "2.19.1",
+  "url": "admin_v2.19.1.enc",
+  "sha256": "d2e1dbb3bdea1be67b93614b5b14a27f04269aa455877f1f27af55a89bf1c076"
  }
 }
