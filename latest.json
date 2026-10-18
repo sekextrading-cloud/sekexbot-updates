@@ -1,12 +1,12 @@
 {
- "version": "2.18.0",
- "url": "SekexBot_Android_v2.18.0.zip",
- "sha256": "83b9005fcc8234b0bfdf7ade6f773734c12189a0597d09970c7574a2f4937bf9",
- "notes": "Strategy builder on the AI tab",
+ "version": "2.18.2",
+ "url": "SekexBot_Android_v2.18.2.zip",
+ "sha256": "c9d796f9cef75ec1c696a3ad81991489a069a2be00dd7431e14c7304ca4ec630",
+ "notes": "Presets now run inside the Auto-trader",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.18.0",
-  "url": "admin_v2.18.0.enc",
-  "sha256": "0c0dc34661c0470683ae18ddf013f3bce546055363973ebbf9a4243105660579"
+  "version": "2.18.2",
+  "url": "admin_v2.18.2.enc",
+  "sha256": "6dd236a0b46e1318413cbda031fed66cc61441a4fd3ce447ee8c9607d1550d48"
  }
 }
