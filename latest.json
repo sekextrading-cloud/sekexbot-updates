@@ -1,12 +1,12 @@
 {
- "version": "2.23.0",
- "url": "SekexBot_Android_v2.23.0.zip",
- "sha256": "9d34362d691a990fef9b541299a6865e05907e4007b8fb076d172b3766471c84",
- "notes": "Radar",
+ "version": "2.24.0",
+ "url": "SekexBot_Android_v2.24.0.zip",
+ "sha256": "402fa5cc204839c1560cc7b86741230340666cbf39588747561fdf5226bf3ba5",
+ "notes": "Overnight shorts (paper and LIVE)",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.23.0",
-  "url": "admin_v2.23.0.enc",
-  "sha256": "e5b0c8e5c68af294a5dd1997425f2d4b034191bddf057d867b550a9239d5dd50"
+  "version": "2.24.0",
+  "url": "admin_v2.24.0.enc",
+  "sha256": "1ebce7342822ab6aad588c9e5553a861f145e3f363d4dc0125e185e053f8bd0e"
  }
 }
