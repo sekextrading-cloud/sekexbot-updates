@@ -1,12 +1,12 @@
 {
- "version": "2.21.1",
- "url": "SekexBot_Android_v2.21.1.zip",
- "sha256": "6548fa4b7031d6a891ada10d44b42319153526f9117f3fb70ac2334956e0ffa1",
- "notes": "Flip button on your own positions",
+ "version": "2.22.1",
+ "url": "SekexBot_Android_v2.22.1.zip",
+ "sha256": "a2a1505377685d17aaa95d7bb1bcd8b91cfd3c075906b63b55c752c9be2a9e93",
+ "notes": "Flip now works in two steps (close first, then open the other way once flat) because one order that crosses zero is rejected; clear alerts if either step stops",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.21.1",
-  "url": "admin_v2.21.1.enc",
-  "sha256": "05d41caffefe9cbc666e25db8b554333d1eedbc2bbe95860117ad703c8bc4012"
+  "version": "2.22.1",
+  "url": "admin_v2.22.1.enc",
+  "sha256": "626f689eb5cad8223ca90aca8603c3add81d2f2e4bad7f36542974ca9dcc2e01"
  }
 }
