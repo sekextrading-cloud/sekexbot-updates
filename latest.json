@@ -1,12 +1,12 @@
 {
- "version": "2.24.0",
- "url": "SekexBot_Android_v2.24.0.zip",
- "sha256": "402fa5cc204839c1560cc7b86741230340666cbf39588747561fdf5226bf3ba5",
- "notes": "Overnight shorts (paper and LIVE)",
+ "version": "2.25.0",
+ "url": "SekexBot_Android_v2.25.0.zip",
+ "sha256": "e306f964e93850572c51502b51173ca31a2bd4717c32e435dca3debe0915c719",
+ "notes": "Autonomous jump trading (Auto tab, off by default), Harvest history with times, Send fixes to SEKEX button in Backup and fixes",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.24.0",
-  "url": "admin_v2.24.0.enc",
-  "sha256": "1ebce7342822ab6aad588c9e5553a861f145e3f363d4dc0125e185e053f8bd0e"
+  "version": "2.25.0",
+  "url": "admin_v2.25.0.enc",
+  "sha256": "78a9b5b704d55b1f1bef28fd8aa511223611f562ff1689b8146cbed64ed4d673"
  }
 }
