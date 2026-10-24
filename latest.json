@@ -1,11 +1,12 @@
 {
- "version": "2.27.0",
- "url": "SekexBot_Android_v2.27.0.zip",
- "sha256": "66d9b6c8a72fdd4c82ddb79b13ef0632f3550ae80d054b6022cc82c76f8957ec",
- "notes": "Options tab, Options follow the share signals (off by default), Options school",
+ "version": "2.27.1",
+ "url": "SekexBot_Android_v2.27.1.zip",
+ "sha256": "0cf947d9e29f5db419e977705cc0ec50a91d1c7fdb3d68792f9eead63c5f58c6",
+ "notes": "Auto-harvest now books the REAL fill price of the sale (looked up from Alpaca), so the \"harvested +$X\" number matches your Today P&L after hours, Flip, Checked every other fix in y",
+ "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.27.0",
-  "url": "admin_v2.27.0.enc",
-  "sha256": "822bc45a7c5d77b80d4e49d8abd5177c165671ecdf4a0095149c28a10d60e189"
+  "version": "2.27.1",
+  "url": "admin_v2.27.1.enc",
+  "sha256": "221fbbf9b7b34a7e9531d73732acf487e1b6502ad3b494d73e13f9f44b084505"
  }
 }
