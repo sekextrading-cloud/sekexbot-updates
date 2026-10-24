@@ -1,12 +1,12 @@
 {
- "version": "2.28.0",
- "url": "SekexBot_Android_v2.28.0-1.zip",
- "sha256": "5744c870d2270829a7567ef9e4107f86776ed6b83ac25f72880940e50bdd4c5b",
- "notes": "AI cost shows in the header as a small chip (\"AI $0, Algorithm fix, Bug sweep",
+ "version": "2.29.0",
+ "url": "SekexBot_Android_v2.29.0.zip",
+ "sha256": "258ab118bdec3b6dfc949e7c293d75d8cbf8ea923f2760fd412905ac324da6b5",
+ "notes": "\ud83c\udfc3 Run Hunter (Auto tab, OFF by default, PAPER first), \u26a1 VWAP rejection, pattern 18, \ud83e\udded Day Playbook (Auto tab, OFF by default)",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.28.0",
-  "url": "admin_v2.28.0.enc",
-  "sha256": "4d9ed19f743539e412fb71706b563a2dd28d7457e4fc4cb2fbb915ba2b18f602"
+  "version": "2.29.0",
+  "url": "admin_v2.29.0.enc",
+  "sha256": "130495028a157058e2f99ab7a4c5ea68eed03c00591dccb62c401e0cefbf0935"
  }
 }
