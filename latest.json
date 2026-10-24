@@ -1,12 +1,12 @@
 {
- "version": "2.29.0",
- "url": "SekexBot_Android_v2.29.0.zip",
- "sha256": "258ab118bdec3b6dfc949e7c293d75d8cbf8ea923f2760fd412905ac324da6b5",
- "notes": "\ud83c\udfc3 Run Hunter (Auto tab, OFF by default, PAPER first), \u26a1 VWAP rejection, pattern 18, \ud83e\udded Day Playbook (Auto tab, OFF by default)",
+ "version": "2.29.1",
+ "url": "SekexBot_Android_v2.29.1.zip",
+ "sha256": "47ecba10f6413da99b4422f85a309d40e9667dd86761b2b25270bbc2dea8799f",
+ "notes": "Fix",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.29.0",
-  "url": "admin_v2.29.0.enc",
-  "sha256": "130495028a157058e2f99ab7a4c5ea68eed03c00591dccb62c401e0cefbf0935"
+  "version": "2.29.1",
+  "url": "admin_v2.29.1.enc",
+  "sha256": "b75a2c92509d3187f1edadfec0dee066bf18916494536945bb80b006abff2c30"
  }
 }
