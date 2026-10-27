@@ -1,12 +1,12 @@
 {
- "version": "2.32.1",
- "url": "SekexBot_Android_v2.32.1.zip",
- "sha256": "d4e3abba4ccb57fb7dfd1a44b7d9cfec735f03c3f5109485ce0e76fac751af5d",
- "notes": "Fix, Open sweep check is about 3 times faster (it read the clock off every candle), Tests",
+ "version": "2.32.2",
+ "url": "SekexBot_Android_v2.32.2.zip",
+ "sha256": "4508ccfade5e6c127fd881fff31800ca71493f4ede04739ebf26eaebf91ce8a7",
+ "notes": "Fix, Fix (likely cause of \"trading frozen, manual still works\"), Fix, Fix, Tests",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.32.1",
-  "url": "admin_v2.32.1.enc",
-  "sha256": "cb17fdb676c858e0416bbb23db30a3680b39d4d429a2f70f7523df2978806196"
+  "version": "2.32.2",
+  "url": "admin_v2.32.2.enc",
+  "sha256": "2b6ee130dce6a4536c283a6e75fc1c70afc2bdc9f5b8431f6f4d456daab4cefa"
  }
 }
