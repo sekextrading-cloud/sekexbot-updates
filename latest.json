@@ -1,12 +1,12 @@
 {
- "version": "2.32.0",
- "url": "SekexBot_Android_v2.32.0.zip",
- "sha256": "608e5f3fec324b6465564dfd732508b74aaf3e2db2ad50f15496c31c5a22389b",
- "notes": "Cleanup from an audit of your own journal (657 trades, Sept 28 to Oct 14), Bad-price guard, Stricter Autonomous gate, The five candlestick patterns (engulfing, hammer / shooting st",
+ "version": "2.32.1",
+ "url": "SekexBot_Android_v2.32.1.zip",
+ "sha256": "d4e3abba4ccb57fb7dfd1a44b7d9cfec735f03c3f5109485ce0e76fac751af5d",
+ "notes": "Fix, Open sweep check is about 3 times faster (it read the clock off every candle), Tests",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.32.0",
-  "url": "admin_v2.32.0.enc",
-  "sha256": "ad54652c42c468598480c65268434a7230e4b2e2f8a41f12be161715c34939d7"
+  "version": "2.32.1",
+  "url": "admin_v2.32.1.enc",
+  "sha256": "cb17fdb676c858e0416bbb23db30a3680b39d4d429a2f70f7523df2978806196"
  }
 }
