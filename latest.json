@@ -1,12 +1,12 @@
 {
- "version": "2.30.0",
- "url": "SekexBot_Android_v2.30.0.zip",
- "sha256": "0dbb458d56076fea4d0e65f051a35ff1708b7172cbd32a3f3129a24f91b811eb",
- "notes": "\ud83d\udd01 Cycle turn, pattern 19 (Auto tab card, OFF unless Autonomous mode is on, PAPER first), No waiting, Shows on the chart for learning, Fix, Tests",
+ "version": "2.32.0",
+ "url": "SekexBot_Android_v2.32.0.zip",
+ "sha256": "608e5f3fec324b6465564dfd732508b74aaf3e2db2ad50f15496c31c5a22389b",
+ "notes": "Cleanup from an audit of your own journal (657 trades, Sept 28 to Oct 14), Bad-price guard, Stricter Autonomous gate, The five candlestick patterns (engulfing, hammer / shooting st",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.30.0",
-  "url": "admin_v2.30.0.enc",
-  "sha256": "e20935b25cbddfc62912c558ab67676053acee8d56814faec90fd834219509bd"
+  "version": "2.32.0",
+  "url": "admin_v2.32.0.enc",
+  "sha256": "ad54652c42c468598480c65268434a7230e4b2e2f8a41f12be161715c34939d7"
  }
 }
