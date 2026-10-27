@@ -1,12 +1,12 @@
 {
- "version": "2.34.0",
- "url": "SekexBot_Android_v2.34.0.zip",
- "sha256": "d67c0bef3274d9710ec96411bb1bbe6b713f96b6d572cbd42c43261e7735e553",
- "notes": "\ud83d\udcc9 New tab, Dip calls safety, Hide tabs, Tests",
+ "version": "2.34.1",
+ "url": "SekexBot_Android_v2.34.1.zip",
+ "sha256": "efe27524d49d572261d00857f3c8f446293e899f99ed058114f8ea8fd0b69e9b",
+ "notes": "Fix, Tests",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.34.0",
-  "url": "admin_v2.34.0.enc",
-  "sha256": "61b4e7fea40c1188bcc961ff70bf1515c25e61991acac12bfabf1d436b459a8e"
+  "version": "2.34.1",
+  "url": "admin_v2.34.1.enc",
+  "sha256": "36e77f19781dbef115ac71b4d46ca997d414c528476b1623dd1bd87bf6a20129"
  }
 }
