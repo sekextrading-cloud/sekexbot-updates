@@ -1,12 +1,12 @@
 {
- "version": "2.32.2",
- "url": "SekexBot_Android_v2.32.2.zip",
- "sha256": "4508ccfade5e6c127fd881fff31800ca71493f4ede04739ebf26eaebf91ce8a7",
- "notes": "Fix, Fix (likely cause of \"trading frozen, manual still works\"), Fix, Fix, Tests",
+ "version": "2.34.0",
+ "url": "SekexBot_Android_v2.34.0.zip",
+ "sha256": "d67c0bef3274d9710ec96411bb1bbe6b713f96b6d572cbd42c43261e7735e553",
+ "notes": "\ud83d\udcc9 New tab, Dip calls safety, Hide tabs, Tests",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.32.2",
-  "url": "admin_v2.32.2.enc",
-  "sha256": "2b6ee130dce6a4536c283a6e75fc1c70afc2bdc9f5b8431f6f4d456daab4cefa"
+  "version": "2.34.0",
+  "url": "admin_v2.34.0.enc",
+  "sha256": "61b4e7fea40c1188bcc961ff70bf1515c25e61991acac12bfabf1d436b459a8e"
  }
 }
