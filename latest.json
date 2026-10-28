@@ -1,12 +1,12 @@
 {
- "version": "2.36.0",
- "url": "SekexBot_Android_v2.36.0.zip",
- "sha256": "7ea292157d79c1b35d92c43003e0d0d60bb5ad49d96b01dea0d0664d2068b85c",
- "notes": "\ud83e\uddee Edge board (Radar tab, top), Morning Wave can use it, \ud83d\udd0d Reality check (Positions tab), Morning Wave trades now go into your trade journal as MORNING_WAVE (Scorecard, stats, Reali",
+ "version": "2.37.0",
+ "url": "SekexBot_Android_v2.37.0.zip",
+ "sha256": "893cf37c4745afd3f9d7eb037bf6a2f46718c35af25f131b5ca389fce0720656",
+ "notes": "\ud83c\udf19 Night dip-buy (SWING_BOUNCE), Night 4 AM hand-off, \ud83e\udded My method (Auto tab, Profit taking card), Restart fix, Journal fix, Safety net, Tests",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.36.0",
-  "url": "admin_v2.36.0.enc",
-  "sha256": "b82681d8ef5e59e2b30e6c0864d72a7d598f77979aa9d026cfde46052654364c"
+  "version": "2.37.0",
+  "url": "admin_v2.37.0.enc",
+  "sha256": "ca7db33c78ca987cd99909dd4b5fe59ba1b0d5455ec5b8c85540e973dbbe574b"
  }
 }
