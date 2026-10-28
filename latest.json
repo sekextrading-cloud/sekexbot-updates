@@ -1,11 +1,12 @@
 {
- "version": "2.35.0",
- "url": "SekexBot_Android_v2.35.0.zip",
- "sha256": "67477cfb9e5aac379f9e443f39528cc02df84302681329903547e8ede52ec7c0",
- "notes": "\ud83c\udf0a Morning Wave autopilot (Auto tab, top card, OFF until you turn it on, PAPER only until you allow LIVE), It manages its own exits (stop orders are not allowed before 9, The manual",
+ "version": "2.36.0",
+ "url": "SekexBot_Android_v2.36.0.zip",
+ "sha256": "7ea292157d79c1b35d92c43003e0d0d60bb5ad49d96b01dea0d0664d2068b85c",
+ "notes": "\ud83e\uddee Edge board (Radar tab, top), Morning Wave can use it, \ud83d\udd0d Reality check (Positions tab), Morning Wave trades now go into your trade journal as MORNING_WAVE (Scorecard, stats, Reali",
+ "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.35.0",
-  "url": "admin_v2.35.0.enc",
-  "sha256": "9a8a1813fb4e3654ac67faa811c1799e354f44eeed622377c4811fb1edffc71c"
+  "version": "2.36.0",
+  "url": "admin_v2.36.0.enc",
+  "sha256": "b82681d8ef5e59e2b30e6c0864d72a7d598f77979aa9d026cfde46052654364c"
  }
 }
