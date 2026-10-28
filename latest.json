@@ -1,12 +1,11 @@
 {
- "version": "2.34.1",
- "url": "SekexBot_Android_v2.34.1.zip",
- "sha256": "efe27524d49d572261d00857f3c8f446293e899f99ed058114f8ea8fd0b69e9b",
- "notes": "Fix, Tests",
- "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
+ "version": "2.35.0",
+ "url": "SekexBot_Android_v2.35.0.zip",
+ "sha256": "67477cfb9e5aac379f9e443f39528cc02df84302681329903547e8ede52ec7c0",
+ "notes": "\ud83c\udf0a Morning Wave autopilot (Auto tab, top card, OFF until you turn it on, PAPER only until you allow LIVE), It manages its own exits (stop orders are not allowed before 9, The manual",
  "admin": {
-  "version": "2.34.1",
-  "url": "admin_v2.34.1.enc",
-  "sha256": "36e77f19781dbef115ac71b4d46ca997d414c528476b1623dd1bd87bf6a20129"
+  "version": "2.35.0",
+  "url": "admin_v2.35.0.enc",
+  "sha256": "9a8a1813fb4e3654ac67faa811c1799e354f44eeed622377c4811fb1edffc71c"
  }
 }
