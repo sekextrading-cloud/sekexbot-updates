@@ -1,11 +1,12 @@
 {
- "version": "2.37.0",
- "url": "SekexBot_Android_v2.37.0.zip",
- "sha256": "893cf37c4745afd3f9d7eb037bf6a2f46718c35af25f131b5ca389fce0720656",
- "notes": "\ud83c\udf19 Night dip-buy (SWING_BOUNCE), Night 4 AM hand-off, \ud83e\udded My method (Auto tab, Profit taking card), Restart fix, Journal fix, Safety net, Tests",
+ "version": "2.37.1",
+ "url": "SekexBot_Android_v2.37.1.zip",
+ "sha256": "a9ae659cbe19862e7a6169c964d5ab9eec7d35b48a03ebff79a6960a0dc4d4d6",
+ "notes": "Fix",
+ "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.37.0",
-  "url": "admin_v2.37.0.enc",
-  "sha256": "4f4cb465572ac02d9060661b4e131aaa75998316cbc65cfe918a74aca2e1aad6"
+  "version": "2.37.1",
+  "url": "admin_v2.37.1.enc",
+  "sha256": "bec1adc85862d1fe04f04d550bc3294956c50b3dad88c45889e5ce3f170216df"
  }
 }
