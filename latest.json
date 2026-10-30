@@ -3,10 +3,9 @@
  "url": "SekexBot_Android_v2.37.3.zip",
  "sha256": "9151010c1568460215f9d79ed0f2b03348c7500639ee8f105fa5e945a07e52dd",
  "notes": "Harvest now is now immediate, Built in your phone's fix (\"lost in an update\"), Fix, Bug sweep, Tests",
- "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
   "version": "2.37.3",
   "url": "admin_v2.37.3.enc",
-  "sha256": "50aa20353d05d843bcdcf3e655d8afb9abc017e18b83d0e3c8e7091d65f29e7f"
+  "sha256": "839ccafbff8eaa9ae1a3f565c4136c6eacf81140459c458d57501dce9f1591f7"
  }
 }
