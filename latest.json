@@ -1,11 +1,12 @@
 {
- "version": "2.37.3",
- "url": "SekexBot_Android_v2.37.3.zip",
- "sha256": "9151010c1568460215f9d79ed0f2b03348c7500639ee8f105fa5e945a07e52dd",
- "notes": "Harvest now is now immediate, Built in your phone's fix (\"lost in an update\"), Fix, Bug sweep, Tests",
+ "version": "2.38.0",
+ "url": "SekexBot_Android_v2.38.0.zip",
+ "sha256": "fe2d5149507081598b6683bd7af5edbc48bcf819735a69458cd88075920d8da7",
+ "notes": "**New \ud83d\ude80 Rush tab, Why this one, **Cleanup",
+ "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.37.3",
-  "url": "admin_v2.37.3.enc",
-  "sha256": "839ccafbff8eaa9ae1a3f565c4136c6eacf81140459c458d57501dce9f1591f7"
+  "version": "2.38.0",
+  "url": "admin_v2.38.0.enc",
+  "sha256": "a2ea74dca547ae3ce8b4b0494470238a682149c64d1be5b61a0eb4bca003898f"
  }
 }
