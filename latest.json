@@ -1,12 +1,12 @@
 {
- "version": "2.38.0",
- "url": "SekexBot_Android_v2.38.0.zip",
- "sha256": "fe2d5149507081598b6683bd7af5edbc48bcf819735a69458cd88075920d8da7",
- "notes": "**New \ud83d\ude80 Rush tab, Why this one, **Cleanup",
+ "version": "2.40.0",
+ "url": "SekexBot_Android_v2.40.0-1.zip",
+ "sha256": "017d2e30f5d9ba40199da69c3d7dc597373dbced76fdf440beb6e2e7643ebc31",
+ "notes": "**Gamma walls on the simple chart (GEX), Get ready / Entry alerts add the PIN / TREND read when it is known for that stock, Every reading is saved (data/gex_log",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.38.0",
-  "url": "admin_v2.38.0.enc",
-  "sha256": "a2ea74dca547ae3ce8b4b0494470238a682149c64d1be5b61a0eb4bca003898f"
+  "version": "2.40.0",
+  "url": "admin_v2.40.0.enc",
+  "sha256": "afd5afd78a144ebbe6764cf0f90400396bac9fed4daa03ec061055e91d97644e"
  }
 }
