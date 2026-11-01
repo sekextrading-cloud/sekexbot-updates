@@ -1,12 +1,12 @@
 {
- "version": "2.40.0",
- "url": "SekexBot_Android_v2.40.0-1.zip",
- "sha256": "017d2e30f5d9ba40199da69c3d7dc597373dbced76fdf440beb6e2e7643ebc31",
- "notes": "**Gamma walls on the simple chart (GEX), Get ready / Entry alerts add the PIN / TREND read when it is known for that stock, Every reading is saved (data/gex_log",
+ "version": "2.42.0",
+ "url": "SekexBot_Android_v2.42.0.zip",
+ "sha256": "c16ff0a68932d629e7b360a42af293ba8078ec657dfbaa977e6235def2b6eb32",
+ "notes": "**New \ud83c\udf93 Trade coach (Learn tab)**, **Options, start to finish**, **\ud83d\udce4 Share this lesson** saves the day's candles and the coach's notes to a file anyone can open in their SekexBot (",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.40.0",
-  "url": "admin_v2.40.0.enc",
-  "sha256": "afd5afd78a144ebbe6764cf0f90400396bac9fed4daa03ec061055e91d97644e"
+  "version": "2.42.0",
+  "url": "admin_v2.42.0.enc",
+  "sha256": "21693de0f0a3ba11d202f3008ef913b0c463a06db51f9f258e653ac9f3c11555"
  }
 }
