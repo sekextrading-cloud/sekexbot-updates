@@ -1,12 +1,12 @@
 {
- "version": "2.43.0",
- "url": "SekexBot_Android_v2.43.0.zip",
- "sha256": "7e2d75f068f7203f5b5f24bf54180df302540799a15fa962eab1525e26e19f62",
- "notes": "**New \ud83e\udded Market Core (top of the Auto tab)**, **New \ud83d\udee1\ufe0f Guardrails** for your manual trades, from your own journal (-$535/day average), **New \ud83d\udcc9\u27a1\ufe0f\ud83d\udcc8 Pullback Buyer (PAPER first, off by",
+ "version": "2.44.0",
+ "url": "SekexBot_Android_v2.44.0.zip",
+ "sha256": "cacc574b22e335e93a1de82682d30c3389d2e99efe8dafcded4d12db55275d9e",
+ "notes": "**New \ud83d\udea6 plain-English trade signal** for any stock, yours or the bot's, **Buttons**, **Alerts reworded**",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.43.0",
-  "url": "admin_v2.43.0.enc",
-  "sha256": "a429d04107d4faf6444cd28c7ab325f47f969b1a0e09ba02088c757922ea7fee"
+  "version": "2.44.0",
+  "url": "admin_v2.44.0.enc",
+  "sha256": "aeb91cd02049befcfe40b5b7a55307a37c99b2375523872c9325316313351d79"
  }
 }
