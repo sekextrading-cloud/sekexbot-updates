@@ -1,12 +1,12 @@
 {
- "version": "2.44.2",
- "url": "SekexBot_Android_v2.44.2.zip",
- "sha256": "9cf285b22403337201f119839bd6e5f08ccaf11758acf31bf2ebd70c62723167",
- "notes": "**A harvest is a gain, never a loss",
+ "version": "2.45.0",
+ "url": "SekexBot_Android_v2.45.0.zip",
+ "sha256": "ace911af58599ae94337489df8a5dd9efe502ab07aafa3615fd0fcb19e540655",
+ "notes": "**New, Tested and NOT built, from the same sweep",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.44.2",
-  "url": "admin_v2.44.2.enc",
-  "sha256": "d670b25e4c4e54d3c5a8edd3ad6c44bc6d3dbe60db4e0b84ad2cb7ce3502c3ae"
+  "version": "2.45.0",
+  "url": "admin_v2.45.0.enc",
+  "sha256": "88b0998bc30b222ef1f3555b58ccb407a1edf50aee0f4552d125bdcd84790589"
  }
 }
