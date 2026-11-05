@@ -1,12 +1,12 @@
 {
- "version": "2.45.0",
- "url": "SekexBot_Android_v2.45.0.zip",
- "sha256": "ace911af58599ae94337489df8a5dd9efe502ab07aafa3615fd0fcb19e540655",
- "notes": "**New, Tested and NOT built, from the same sweep",
+ "version": "2.46.0",
+ "url": "SekexBot_Android_v2.46.0.zip",
+ "sha256": "c5ae654a7902a4364d10c6af4984971b5c5a11c66439956f29bb22bf690758ba",
+ "notes": "**New, **The ticket is filled in for you**, **\ud83e\uddfc Clean chart (default)**, **Today, one line each**",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.45.0",
-  "url": "admin_v2.45.0.enc",
-  "sha256": "88b0998bc30b222ef1f3555b58ccb407a1edf50aee0f4552d125bdcd84790589"
+  "version": "2.46.0",
+  "url": "admin_v2.46.0.enc",
+  "sha256": "5f6b45040bc2e502352446e14e144f02cd7b2024ecbfae67f826bdc05027b945"
  }
 }
