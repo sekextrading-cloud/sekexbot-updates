@@ -1,12 +1,12 @@
 {
- "version": "2.47.0",
- "url": "SekexBot_Android_v2.47.0.zip",
- "sha256": "d20bba84492004b66051a0aab402e913c123e04975294e1fb4a450ca5188a844",
- "notes": "**New \ud83e\udded Tape autopilot (Auto tab), runs by itself** for the days the whole market moves one way (Nov 5, **\ud83d\udd10 Arm LIVE for today + tomorrow** (one PIN, for days you cannot reach your",
+ "version": "2.47.1",
+ "url": "SekexBot_Android_v2.47.1.zip",
+ "sha256": "ddf1443d409cb1e84b5d3ce836dc01a91afd9520eb186fc5f4eb8621ba7a96e4",
+ "notes": "**Fix (from your journal, Nov 5)",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.47.0",
-  "url": "admin_v2.47.0.enc",
-  "sha256": "31b670aba8c4ea80fdfc604f4b64f8eb50083e728c7974f05776c1091e9c5d29"
+  "version": "2.47.1",
+  "url": "admin_v2.47.1.enc",
+  "sha256": "356527324589bd415267566936c7ac4e31a14d6e41c350fc612b186b461b9ba7"
  }
 }
