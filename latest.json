@@ -1,12 +1,12 @@
 {
- "version": "2.47.1",
- "url": "SekexBot_Android_v2.47.1.zip",
- "sha256": "ddf1443d409cb1e84b5d3ce836dc01a91afd9520eb186fc5f4eb8621ba7a96e4",
- "notes": "**Fix (from your journal, Nov 5)",
+ "version": "2.47.2",
+ "url": "SekexBot_Android_v2.47.2.zip",
+ "sha256": "b0d547d8ee30e59c81baa89c209d69e8466ceb978c238e0cc57189bc673868b7",
+ "notes": "**From your phone, Nov 6, **Options autopilot switched off** (once), **Lighter on the phone, **`sekex log` returns at once** (it used to follow forever, which is why piping it look",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.47.1",
-  "url": "admin_v2.47.1.enc",
-  "sha256": "356527324589bd415267566936c7ac4e31a14d6e41c350fc612b186b461b9ba7"
+  "version": "2.47.2",
+  "url": "admin_v2.47.2.enc",
+  "sha256": "bb49917091efb272939a9e2f02cf8efe8bb95c90c2b346980913adf23419098b"
  }
 }
