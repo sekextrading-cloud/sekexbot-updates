@@ -1,12 +1,12 @@
 {
- "version": "2.47.6",
- "url": "SekexBot_Android_v2.47.6.zip",
- "sha256": "84ab93a2596c5687099306893453803e96614428c8c06fc784b92d984a05c407",
- "notes": "Opening Rush stop no longer goes blind in a real crash, Opening Rush / gap-and-go price floor raised from $3 to $10",
+ "version": "2.47.8",
+ "url": "SekexBot_Android_v2.47.8.zip",
+ "sha256": "96d8a48834dd9794f9b671252d6c5852733fdea0eb6c360a0d7424b96acd76c5",
+ "notes": "Edge board shows fewer stocks",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.47.6",
-  "url": "admin_v2.47.6.enc",
-  "sha256": "ce7e5303e7e1cc28f881ce6c55ec63cd63b7ddbf7a4f1c8a8b226bb10b1dc19c"
+  "version": "2.47.8",
+  "url": "admin_v2.47.8.enc",
+  "sha256": "df2dbd6e5685d20e7ec87659f55fa1cd4aa734da4b09bcbb89e247a82d72e39a"
  }
 }
