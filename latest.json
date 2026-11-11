@@ -1,12 +1,12 @@
 {
- "version": "2.47.4",
- "url": "SekexBot_Android_v2.47.4.zip",
- "sha256": "cf50410e4f135c84980ecff92e85b7ec3fd2672ed7b98afb8e77455938b56ca8",
- "notes": "**Execute from the Edge board",
+ "version": "2.47.6",
+ "url": "SekexBot_Android_v2.47.6.zip",
+ "sha256": "84ab93a2596c5687099306893453803e96614428c8c06fc784b92d984a05c407",
+ "notes": "Opening Rush stop no longer goes blind in a real crash, Opening Rush / gap-and-go price floor raised from $3 to $10",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.47.4",
-  "url": "admin_v2.47.4.enc",
-  "sha256": "1ef10244961c1ae40942659a1bef0b6d7777b25e914542fce42b4d03ab8ab1dd"
+  "version": "2.47.6",
+  "url": "admin_v2.47.6.enc",
+  "sha256": "ce7e5303e7e1cc28f881ce6c55ec63cd63b7ddbf7a4f1c8a8b226bb10b1dc19c"
  }
 }
