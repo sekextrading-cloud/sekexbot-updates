@@ -1,12 +1,12 @@
 {
- "version": "2.47.8",
- "url": "SekexBot_Android_v2.47.8.zip",
- "sha256": "96d8a48834dd9794f9b671252d6c5852733fdea0eb6c360a0d7424b96acd76c5",
- "notes": "Edge board shows fewer stocks",
+ "version": "2.47.10",
+ "url": "SekexBot_Android_v2.47.10.zip",
+ "sha256": "d4f6ab09b0f3b3c8017710491d16e875797de0555695785837dd3caa045b7f70",
+ "notes": "Top cards on the Edge board, Fixed",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.47.8",
-  "url": "admin_v2.47.8.enc",
-  "sha256": "df2dbd6e5685d20e7ec87659f55fa1cd4aa734da4b09bcbb89e247a82d72e39a"
+  "version": "2.47.10",
+  "url": "admin_v2.47.10.enc",
+  "sha256": "c087786c14801ed0e4b3283538adf1a0f2f4e5a9486e8d89e2b4009fa2b0538d"
  }
 }
