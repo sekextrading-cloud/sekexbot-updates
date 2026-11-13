@@ -1,12 +1,12 @@
 {
- "version": "2.48.0",
- "url": "SekexBot_Android_v2.48.0.zip",
- "sha256": "737dd367d1bb66e1acb79131881eb8e575ce762b0f47c46b1065104679deb65c",
- "notes": "Scalp one stock (PAPER only)",
+ "version": "2.48.3",
+ "url": "SekexBot_Android_v2.48.3.zip",
+ "sha256": "d3be6698806e9f3168f5bc9ad0834f9fba2f1fc556513cf691c8318ad93ca183",
+ "notes": "Back to the US Eastern schedule",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.48.0",
-  "url": "admin_v2.48.0.enc",
-  "sha256": "980016a733e52705be01bff8e0d1413cd75bec73015c917c3799fbed87252573"
+  "version": "2.48.3",
+  "url": "admin_v2.48.3.enc",
+  "sha256": "8a395c9e6d7c5c8800ce609fb70789afaf164edf8e61eb5190e8cdf8ced2ab3a"
  }
 }
