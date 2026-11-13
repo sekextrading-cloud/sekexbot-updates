@@ -1,12 +1,12 @@
 {
- "version": "2.48.3",
- "url": "SekexBot_Android_v2.48.3.zip",
- "sha256": "d3be6698806e9f3168f5bc9ad0834f9fba2f1fc556513cf691c8318ad93ca183",
- "notes": "Back to the US Eastern schedule",
+ "version": "2.49.0",
+ "url": "SekexBot_Android_v2.49.0.zip",
+ "sha256": "e50d8c1fdc1a577250b85232d5d3e2632424cf0cf8018ed39779f8e521be3468",
+ "notes": "Compact Trade pad (Manual tab)",
  "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.48.3",
-  "url": "admin_v2.48.3.enc",
-  "sha256": "8a395c9e6d7c5c8800ce609fb70789afaf164edf8e61eb5190e8cdf8ced2ab3a"
+  "version": "2.49.0",
+  "url": "admin_v2.49.0.enc",
+  "sha256": "a5c4b5d7a44b03e6b1be4c0efbdf4701bfc6b50ea65a5aa47df9bab5976c6a51"
  }
 }
