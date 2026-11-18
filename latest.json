@@ -1,12 +1,12 @@
 {
- "version": "2.52.0",
- "url": "SekexBot_Android_v2.52.0.zip",
- "sha256": "bf04ce6ae7b029e0811441c70c4578bf5bc23043835aa6cb934b528246e75ad2",
- "notes": "Options tab redesigned",
- "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
+ "version": "2.52.2",
+ "url": "SekexBot_Android_v2.52.2.zip",
+ "sha256": "0a6c856abe1d8d7cf86cb14242d5246d361c01c8ab7bdbfbf4eafd86dbc6bf04",
+ "notes": "The Tape autopilot is easy to find and turn on",
+ "collector": "https://pubs-thats-joyce-address.trycloudflare.com",
  "admin": {
-  "version": "2.52.0",
-  "url": "admin_v2.52.0.enc",
-  "sha256": "43310f06622a4ce2a996600cc971409de90645f52742c3836ca31e09eff8a26e"
+  "version": "2.52.2",
+  "url": "admin_v2.52.2.enc",
+  "sha256": "4ccfa04fc7fc0a466007d3ed3303737261ef673e7901fb66de149bb78c1514a6"
  }
 }
