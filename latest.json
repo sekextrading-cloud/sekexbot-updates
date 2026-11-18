@@ -1,11 +1,12 @@
 {
- "version": "2.49.0",
- "url": "SekexBot_Android_v2.49.0.zip",
- "sha256": "e50d8c1fdc1a577250b85232d5d3e2632424cf0cf8018ed39779f8e521be3468",
- "notes": "Compact Trade pad (Manual tab)",
+ "version": "2.52.0",
+ "url": "SekexBot_Android_v2.52.0.zip",
+ "sha256": "bf04ce6ae7b029e0811441c70c4578bf5bc23043835aa6cb934b528246e75ad2",
+ "notes": "Options tab redesigned",
+ "collector": "https://monitoring-zip-openings-efficiency.trycloudflare.com",
  "admin": {
-  "version": "2.49.0",
-  "url": "admin_v2.49.0.enc",
-  "sha256": "ec7df73d947176102b6a29d8692e12a47cfeedb2e49c089220599d42ea2d15c5"
+  "version": "2.52.0",
+  "url": "admin_v2.52.0.enc",
+  "sha256": "43310f06622a4ce2a996600cc971409de90645f52742c3836ca31e09eff8a26e"
  }
 }
