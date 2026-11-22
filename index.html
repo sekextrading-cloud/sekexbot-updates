@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SekexBot setup</title>
+<style>
+  :root { --bg:#0e1420; --card:#18212f; --line:#2a3648; --ink:#eef2f7; --dim:#9fb0c5; --go:#22b573; --go-ink:#04170e; --warn:#f2b84b; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:18px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
+  main { max-width:560px; margin:0 auto; padding:22px 16px 48px; }
+  h1 { font-size:28px; margin:6px 0 4px; letter-spacing:-.01em; }
+  .lead { color:var(--dim); margin:0 0 20px; }
+  .step { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:18px 16px; margin:14px 0; }
+  .num { display:inline-flex; width:34px; height:34px; border-radius:50%; background:var(--go); color:var(--go-ink); font-weight:800; align-items:center; justify-content:center; margin-right:10px; }
+  h2 { font-size:21px; margin:0 0 10px; display:flex; align-items:center; }
+  p { margin:8px 0; }
+  ol { margin:8px 0 0; padding-left:22px; } li { margin:6px 0; }
+  .btn { display:block; width:100%; text-align:center; background:var(--go); color:var(--go-ink); font:800 20px/1 inherit; border:0; border-radius:14px; padding:18px 12px; margin:14px 0 8px; text-decoration:none; cursor:pointer; }
+  .btn:active { transform:scale(.98); }
+  .btn.done { background:#2d3b50; color:var(--ink); }
+  .code { display:block; background:#0a0f18; border:1px dashed var(--line); border-radius:10px; padding:12px; font:13px/1.45 ui-monospace,Menlo,Consolas,monospace; color:#bfe9d3; word-break:break-all; user-select:all; -webkit-user-select:all; }
+  .note { color:var(--dim); font-size:16px; }
+  .warn { border-color:var(--warn); }
+  .warn b { color:var(--warn); }
+  b { color:#fff; }
+</style>
+</head>
+<body>
+<main>
+  <h1>SekexBot setup</h1>
+  <p class="lead">Three taps and one paste. The phone does the rest by itself. Plug the phone in and connect to Wi-Fi first.</p>
+
+  <section class="step">
+    <h2><span class="num">1</span>Install Termux</h2>
+    <p>Termux is the free app SekexBot runs inside.</p>
+    <a class="btn" href="https://f-droid.org/repo/com.termux_1002.apk">Download Termux</a>
+    <ol>
+      <li>Tap the button. If the phone warns about the file, tap <b>Download anyway</b>.</li>
+      <li>Tap <b>Open</b> when the download finishes, then <b>Install</b>.</li>
+      <li>If the phone says your browser can't install apps: tap <b>Settings</b>, switch on <b>Allow from this source</b>, press Back, tap <b>Install</b>.</li>
+    </ol>
+    <p class="note">Do not use the Termux from the Play Store. It does not work.</p>
+  </section>
+
+  <section class="step">
+    <h2><span class="num">2</span>Copy the setup line</h2>
+    <button class="btn" id="copy" type="button">Copy setup line</button>
+    <code class="code" id="line">curl -L https://raw.githubusercontent.com/sekextrading-cloud/sekexbot-updates/main/setup.sh | bash</code>
+    <p class="note">If the button does nothing, hold your finger on the green text and tap Copy.</p>
+  </section>
+
+  <section class="step">
+    <h2><span class="num">3</span>Paste it into Termux</h2>
+    <ol>
+      <li>Open the <b>Termux</b> app (black screen with white text). Wait until the text stops moving.</li>
+      <li>Hold your finger on the black screen, then tap <b>Paste</b>.</li>
+      <li>Tap the <b>Enter</b> key on the keyboard (the &#x21B5; key).</li>
+    </ol>
+  </section>
+
+  <section class="step warn">
+    <h2>What happens next</h2>
+    <ol>
+      <li>Three small windows pop up, one after another. On each one tap <b>Install</b>, then <b>Done</b>. The first time the phone may ask to allow Termux to install apps: tap <b>Settings</b>, switch it on, press Back.</li>
+      <li>Then <b>leave the phone alone</b> for 10 to 40 minutes. Keep it plugged in. Do not close Termux.</li>
+      <li>When it is finished, SekexBot opens by itself. If the phone shows a Battery page for Termux, choose <b>Unrestricted</b>.</li>
+      <li>In SekexBot, tap <b>Broker keys</b> and enter your Alpaca keys.</li>
+    </ol>
+    <p class="note">Something went wrong? Do step 3 again. It picks up where it stopped. If it fails twice, send a screenshot.</p>
+  </section>
+</main>
+<script>
+  var btn = document.getElementById('copy'), line = document.getElementById('line');
+  btn.addEventListener('click', function () {
+    var text = line.textContent.trim();
+    function ok() { btn.textContent = 'Copied. Now open Termux'; btn.classList.add('done'); }
+    function fallback() {
+      var r = document.createRange(); r.selectNodeContents(line);
+      var s = window.getSelection(); s.removeAllRanges(); s.addRange(r);
+      try { if (document.execCommand('copy')) ok(); } catch (e) {}
+    }
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(ok, fallback);
+    else fallback();
+  });
+</script>
+</body>
+</html>
